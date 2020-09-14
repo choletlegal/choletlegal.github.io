@@ -2,6 +2,7 @@ site:
   title: Cholet.legal Cabinet d'avocat
   description: "Avocat en droit public"
   url: "https://www.cholet.legal"
+  logo: logoantonincholetavocat.png
 
 author:
   name: Antonin Cholet
