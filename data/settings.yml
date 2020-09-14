@@ -1,0 +1,22 @@
+site:
+  title: Cholet.legal Cabinet d'avocat
+  description: "Avocat en droit public"
+  url: "https://www.cholet.legal"
+
+author:
+  name: Antonin Cholet
+  street: 24 rue de la préfecture
+  zipcode: 25000
+  city: Besançon
+  phone: 07 67 25 00 39
+  toque: Palais Toque 13
+
+
+social:
+  facebook: "https://www.facebook.com/Antonin-Cholet-Avocat-1507007512720805/"
+  twitter: "https://twitter.com/AntoninCholet"
+  linkedin: "http://linkedin.com/in/antonincholet"
+  jurihub: "https://consultation.avocat.fr/consultation-cabinet/forms.php?targetid=40539"
+
+google_analytics:
+  tracking_code: "Your-tracking-code"
