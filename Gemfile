@@ -9,4 +9,5 @@ gem 'middleman-minify-html'
 gem 'font-awesome-sass'
 gem 'bootstrap-sass'
 gem 'middleman-sitemap'
+gem 'middleman-livereload'
 
